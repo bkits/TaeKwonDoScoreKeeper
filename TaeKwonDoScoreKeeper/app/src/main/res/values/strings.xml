@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaeKwonDo Score Keeper</string>
+    <string name="blue_player">Blue Player</string>
+    <string name="red_player">Red Player</string>
+    <string name="points_3">+3 points</string>
+    <string name="points_2">+2 points</string>
+    <string name="points_1">+1 point</string>
+    <string name="foul">foul</string>
+    <string name="reset">reset</string>
+    <string name="NULL">0</string>
+</resources>
